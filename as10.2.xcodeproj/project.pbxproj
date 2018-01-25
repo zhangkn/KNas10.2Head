@@ -13,6 +13,7 @@
 		E1D7BA4E2019852500DD1DA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1D7BA4C2019852500DD1DA4 /* Main.storyboard */; };
 		E1D7BA502019852500DD1DA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1D7BA4F2019852500DD1DA4 /* Assets.xcassets */; };
 		E1D7BA532019852500DD1DA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1D7BA512019852500DD1DA4 /* LaunchScreen.storyboard */; };
+		E1D7BA5B2019854500DD1DA4 /* head in Resources */ = {isa = PBXBuildFile; fileRef = E1D7BA5A2019854500DD1DA4 /* head */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E1D7BA4F2019852500DD1DA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1D7BA522019852500DD1DA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1D7BA542019852500DD1DA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1D7BA5A2019854500DD1DA4 /* head */ = {isa = PBXFileReference; lastKnownFileType = folder; path = head; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,14 +60,7 @@
 		E1D7BA422019852500DD1DA4 /* as10.2 */ = {
 			isa = PBXGroup;
 			children = (
-				E1D7BA462019852500DD1DA4 /* AppDelegate.h */,
-				E1D7BA472019852500DD1DA4 /* AppDelegate.m */,
-				E1D7BA492019852500DD1DA4 /* ViewController.h */,
-				E1D7BA4A2019852500DD1DA4 /* ViewController.m */,
-				E1D7BA4C2019852500DD1DA4 /* Main.storyboard */,
-				E1D7BA4F2019852500DD1DA4 /* Assets.xcassets */,
-				E1D7BA512019852500DD1DA4 /* LaunchScreen.storyboard */,
-				E1D7BA542019852500DD1DA4 /* Info.plist */,
+				E1D7BA5A2019854500DD1DA4 /* head */,
 				E1D7BA432019852500DD1DA4 /* Supporting Files */,
 			);
 			path = as10.2;
@@ -74,6 +69,14 @@
 		E1D7BA432019852500DD1DA4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E1D7BA462019852500DD1DA4 /* AppDelegate.h */,
+				E1D7BA472019852500DD1DA4 /* AppDelegate.m */,
+				E1D7BA492019852500DD1DA4 /* ViewController.h */,
+				E1D7BA4A2019852500DD1DA4 /* ViewController.m */,
+				E1D7BA4C2019852500DD1DA4 /* Main.storyboard */,
+				E1D7BA4F2019852500DD1DA4 /* Assets.xcassets */,
+				E1D7BA512019852500DD1DA4 /* LaunchScreen.storyboard */,
+				E1D7BA542019852500DD1DA4 /* Info.plist */,
 				E1D7BA442019852500DD1DA4 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -139,6 +142,7 @@
 			files = (
 				E1D7BA532019852500DD1DA4 /* LaunchScreen.storyboard in Resources */,
 				E1D7BA502019852500DD1DA4 /* Assets.xcassets in Resources */,
+				E1D7BA5B2019854500DD1DA4 /* head in Resources */,
 				E1D7BA4E2019852500DD1DA4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
